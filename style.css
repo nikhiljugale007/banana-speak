@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body{
+    font-family: 'Press Start 2P', cursive;
     margin:0rem;
 }
 
@@ -33,11 +35,13 @@ body{
     margin: 1rem;
     background-color: rgb(245, 245, 31);
     margin-left:25%;
+    font-family: 'Press Start 2P', cursive;
 }
 
 #output-title{
     margin: 1rem;
     margin-left:25%;
+    font-size: small;
 }
 
 header{
@@ -51,7 +55,6 @@ footer{
     padding: 2rem ;
     text-align: center;
     color:black;
-    border-top-right-radius: 1rem;
 }
 
 footer p{
