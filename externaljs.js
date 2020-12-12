@@ -1,4 +1,4 @@
-var btnTranslate = document.querySelector('#btn-Translate');
+var btnTranslate = document.querySelector('#btn-translate');
 var txtTranslate = document.querySelector('#text-Input');
 var outputDiv = document.querySelector('#output');
 
